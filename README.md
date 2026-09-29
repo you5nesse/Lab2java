@@ -5,7 +5,8 @@ EXERCICE 3:<img width="999" height="745" alt="Capture d’écran (126)" src="htt
 EXERCICE 5: <img width="1028" height="699" alt="Capture d’écran (129)" src="https://github.com/user-attachments/assets/521fd56b-de78-42da-acf1-e1d5279df000" />
 EXERCICE 6:<img width="1041" height="896" alt="Capture d’écran (130)" src="https://github.com/user-attachments/assets/44f201cd-64ab-4504-be44-60c00a7c8ef2" />
 EXERCICE 7:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d502eae8-3b44-468f-98ac-6703544241de" />
-EXERCICE 8:
+EXERCICE 8:<img width="552" height="328" alt="Capture d&#39;écran 2026-09-29 235936" src="https://github.com/user-attachments/assets/48bf6f80-763f-4d8a-81f5-cdd66d903371" />
+
 
 EXERCICE 9:<img width="615" height="371" alt="Capture d&#39;écran 2026-09-29 235221" src="https://github.com/user-attachments/assets/34c912e9-e3a8-43a0-967b-00ea6f936905" />
 
