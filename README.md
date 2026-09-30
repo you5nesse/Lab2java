@@ -1,14 +1,29 @@
-EXERCICE 1: <img width="940" height="687" alt="Capture d’écran (123)" src="https://github.com/user-attachments/assets/b693d789-8130-4dc5-bb60-d14e197ff33b" />
-<img width="966" height="561" alt="Capture d’écran (122)" src="https://github.com/user-attachments/assets/eb093ed8-6656-4ca1-a759-395fc0c938a7" />
-EXERCICE 2:<img width="1162" height="795" alt="Capture d’écran (125)" src="https://github.com/user-attachments/assets/aea1c576-1d8a-492b-9d2e-859da95fc884" />
-EXERCICE 3:<img width="999" height="745" alt="Capture d’écran (126)" src="https://github.com/user-attachments/assets/d1253001-984c-46ae-92b3-b1bbff2cadb0" />
-EXERCICE 5: <img width="1028" height="699" alt="Capture d’écran (129)" src="https://github.com/user-attachments/assets/521fd56b-de78-42da-acf1-e1d5279df000" />
-EXERCICE 6:<img width="1041" height="896" alt="Capture d’écran (130)" src="https://github.com/user-attachments/assets/44f201cd-64ab-4504-be44-60c00a7c8ef2" />
-EXERCICE 7:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d502eae8-3b44-468f-98ac-6703544241de" />
-EXERCICE 8:<img width="552" height="328" alt="Capture d&#39;écran 2026-09-29 235936" src="https://github.com/user-attachments/assets/48bf6f80-763f-4d8a-81f5-cdd66d903371" />
+EXERCICE 1:<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/bdad181a-2b3c-4d6e-babb-bccd461c5731" />
+ 
+
+EXERCICE 2:<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/0f626f41-5c37-471a-ab19-bda0b6923512" />
 
 
-EXERCICE 9:<img width="615" height="371" alt="Capture d&#39;écran 2026-09-29 235221" src="https://github.com/user-attachments/assets/34c912e9-e3a8-43a0-967b-00ea6f936905" />
+EXERCICE 3:<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ae53c434-e005-4357-a90f-9c517874b7ec" />
+
+
+EXERCICE 5: <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/c829d4fe-5762-4702-aba4-17ff612723c9" />
+
+
+EXERCICE 6:<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/789cbcfe-4f56-4d1b-bba0-3f690a593c3d" />
+
+
+EXERCICE 7:<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/92d615b0-d28a-4ca0-bd0b-7b2cb8cc3b74" />
+
+
+EXERCICE 8:<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/e4b65302-056a-4a2c-a280-fc55b9bcb3d4" />
+
+
+
+
+EXERCICE 9:<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/3764a4fb-3b4f-4b22-9301-a9bc61946338" />
+
+
 
 
 
