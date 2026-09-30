@@ -5,7 +5,7 @@ public class Ex5 {
 
 	    int n = t.length;
 
-	    // 1. Vérifier que t est une permutation de 1..n
+	    
 	    boolean[] present = new boolean[n + 1];
 
 	    for (int i = 0; i < n; i++) {
@@ -21,7 +21,7 @@ public class Ex5 {
 	        present[t[i]] = true;
 	    }
 
-	    // 2. Tester toutes les rotations
+	   
 	    for (int debut = 0; debut < n; debut++) {
 
 	        boolean identique = true;
